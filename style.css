@@ -1,0 +1,13 @@
+body {
+    background-color:#b1f2ff;
+}
+
+.info {
+    text-indent:50px;
+}
+
+img {
+    border-radius: 8px;
+    width: 25%;
+    indent:50px;
+  }
