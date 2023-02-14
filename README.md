@@ -11,3 +11,4 @@ Contains:
     - Fave Food
     - Hobbies (intentionally not merged)
     - Fave Food (intentionally not merged)
+2. CSS for styling
